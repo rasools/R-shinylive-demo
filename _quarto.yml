@@ -1,5 +1,7 @@
 project:
   title: "r-shinylive-demo"
+  output-dir: docs
+
 
 
 
