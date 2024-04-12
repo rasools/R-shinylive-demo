@@ -3,7 +3,7 @@ title: "R-shinylive-demo"
 format:
     html:
         gride:
-            body-width: 1200px
+            body-width: 2000px
         resources: 
             - shinylive-sw.js
 filters:
